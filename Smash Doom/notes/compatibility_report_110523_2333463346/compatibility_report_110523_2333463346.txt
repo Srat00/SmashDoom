@@ -1,0 +1,78 @@
+font0 글꼴이 Segoe UI Light(Light) 글꼴 패밀리로 변환됨
+GameMaker Studio 1 글꼴 텍스처가 ${project_dir}\fonts\font0\font0.gms1.png에서 백업되었습니다.
+GML 스크립트 변환: ${project_dir}\objects\bulldraw\Draw_0.gml
+변환된 내장 항목 - 줄 4: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 5: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 6: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 9: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 14: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 19: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 4: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 5: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 6: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 9: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 14: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 19: view_yview -> __view_get( e__VW.YView, 0 )
+
+GML 스크립트 변환: ${project_dir}\objects\hp_draw\Draw_0.gml
+변환된 내장 항목 - 줄 1: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 1: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 1: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+GML 스크립트 변환: ${project_dir}\objects\hp_score_draw\Draw_0.gml
+변환된 내장 항목 - 줄 3: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 4: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 5: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 6: view_xview -> __view_get( e__VW.XView, 0 )
+변환된 내장 항목 - 줄 3: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 4: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 5: view_yview -> __view_get( e__VW.YView, 0 )
+변환된 내장 항목 - 줄 6: view_yview -> __view_get( e__VW.YView, 0 )
+
+사운드의 오디오 그룹 누락됨: 'BGM' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Gun_fire' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Shotgun_Fire' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Rocket_fire' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Minigun_fire' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Warning' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Player_Die1' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Player_die2' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Rocket_explode' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Enemy_die1' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Enemy_die2' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Reload' - 기본 오디오 그룹으로 설정
+사운드의 오디오 그룹 누락됨: 'Main_BGM' - 기본 오디오 그룹으로 설정
+게임 스피드가 60(으)로 설정됨
+호환성 스크립트 'action/action_another_room.gml' 추가됨
+호환성 스크립트 'action/action_change_object.gml' 추가됨
+호환성 스크립트 'action/action_color.gml' 추가됨
+호환성 스크립트 'action/action_create_object.gml' 추가됨
+호환성 스크립트 'action/action_draw_health.gml' 추가됨
+호환성 스크립트 'action/action_draw_text.gml' 추가됨
+호환성 스크립트 'action/action_draw_variable.gml' 추가됨
+호환성 스크립트 'action/action_effect.gml' 추가됨
+호환성 스크립트 'action/action_end_sound.gml' 추가됨
+호환성 스크립트 'action/action_font.gml' 추가됨
+호환성 스크립트 'action/action_if_dice.gml' 추가됨
+호환성 스크립트 'action/action_if_health.gml' 추가됨
+호환성 스크립트 'action/action_if_object.gml' 추가됨
+호환성 스크립트 'action/action_if_variable.gml' 추가됨
+호환성 스크립트 'action/action_kill_object.gml' 추가됨
+호환성 스크립트 'action/action_message.gml' 추가됨
+호환성 스크립트 'action/action_move_point.gml' 추가됨
+호환성 스크립트 'action/action_move_to.gml' 추가됨
+호환성 스크립트 'action/action_potential_step.gml' 추가됨
+호환성 스크립트 'action/action_set_alarm.gml' 추가됨
+호환성 스크립트 'action/action_set_cursor.gml' 추가됨
+호환성 스크립트 'action/action_set_health.gml' 추가됨
+호환성 스크립트 'action/action_set_relative.gml' 추가됨
+호환성 스크립트 'action/action_set_score.gml' 추가됨
+호환성 스크립트 'action/action_sound.gml' 추가됨
+호환성 스크립트 'instance/instance_create.gml' 추가됨
+호환성 스크립트 'object/object_get_depth.gml' 추가됨
+호환성 스크립트 'view/__view_get.gml' 추가됨
+호환성 스크립트 'action/__init_action.gml' 추가됨
+호환성 스크립트 'view/__init_view.gml' 추가됨
+호환성 스크립트 '__init_global.gml' 추가됨
+호환성 스크립트 '__global_object_depths.gml' 추가됨
